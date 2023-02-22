@@ -9,7 +9,7 @@ Most of the content of this respository has been generated with [ProM 6](https:/
 ## Structure of the repository
 
 The content of this repository is divided in three folders:
-- `data` - this folder contains the complete event log in multiple formats (plain text, CSV and XES), in addition to two filtered version (in XES format)
+- `data` - this folder contains the complete event log in multiple formats (plain text, CSV and XES), in addition to two filtered versions (in XES format)
 - `models` - this folder contains three sub-folders, each of them with the models discovered (in PNML format) by various algorithms on three versions of the event log
 - `converter` - this folder contains the Python script which has been used to convert the raw event log to a CSV file
 
